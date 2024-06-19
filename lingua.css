@@ -1,0 +1,169 @@
+.icones {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://myconnect.com.br/wp-content/uploads/2016/06/wallpaper-programador.jpg');
+    background-size: 100%;
+}
+
+.htmll {
+    width: auto;
+    height: 220px;
+}
+
+.cssl {
+    width: auto;
+    height: 200px;
+}
+
+.javal {
+    width: auto;
+    height: 225px;
+}
+
+.linguagemt p {
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 25 px;
+    color: white;
+    background-color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-style: oblique;
+}
+
+.caixas {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caixa1 {
+    width: 200px;
+    height: 545px;
+    color: white;
+    
+    margin-left: 50px;
+    background-color: black;
+    padding: 20px;
+
+    max-width: 200px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 50;
+    -webkit-box-orient: vertical;
+}
+
+.ti1 {
+    padding-top: 15px;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: rgb(204, 0, 0);
+}
+
+.txt1 {
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+.caixa2 {
+    width: 200px;
+    height: 545px;
+    color: white;
+    
+    margin-left: 50px;
+    background-color: black;
+    padding: 20px;
+
+    max-width: 200px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 50;
+    -webkit-box-orient: vertical;
+}
+
+.ti2 {
+    padding-top: 15px;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: orangered;
+}
+
+.txt2 {
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+.caixa3 {
+    width: 200px;
+    height: 545px;
+    color: white;
+    
+    margin-left: 50px;
+    background-color: black;
+    padding: 20px;
+
+    max-width: 200px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 50;
+    -webkit-box-orient: vertical;
+}
+
+.ti3 {
+    padding-top: 15px;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: rgb(33, 33, 255);
+}
+
+.txt3 {
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+.caixa4 {
+    width: 200px;
+    height: 550px;
+    color: white;
+    
+    margin-left: 50px;
+    background-color: black;
+    padding: 20px;
+
+    max-width: 200px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 50;
+    -webkit-box-orient: vertical;
+}
+
+.ti4 {
+    padding-top: 15px;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: orange;
+}
+
+.txt4 {
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}

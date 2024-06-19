@@ -1,0 +1,100 @@
+.sobre {
+    text-align: center;
+}
+
+.tudo{
+    font-style: oblique;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.princ h1 {
+    font-size: 50px;
+    font-style: oblique;
+    text-align: center;
+    color: black;
+    margin-top: 35px;
+    margin-bottom: 30px;
+}
+.princ1 {
+    margin-right: 100px;
+    font-size: 20px;
+    color: white;
+
+    background-color: black;
+    padding: 20px;
+
+    max-width: 400px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 50;
+    -webkit-box-orient: vertical;
+}
+
+.titalo1 {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 15px;
+}
+
+.texto1 {
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.princ2 {
+    font-size: 20px;
+    color: white;
+    
+    margin-left: 50px;
+    background-color: black;
+    padding: 20px;
+
+    max-width: 400px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 50;
+    -webkit-box-orient: vertical;
+}
+
+.titalo2 {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 15px;
+}
+
+.texto2 {
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fotos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.foto1 {
+    padding: 20px;
+    background-color: black;
+    margin-right: 220px;
+}
+
+.foto2 {
+    padding: 20px;
+    background-color: black;
+}
+
+.fotos img {
+    width: auto;
+    height: 320px;
+}
