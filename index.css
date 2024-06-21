@@ -5,14 +5,22 @@
 .tudo{
     font-style: oblique;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-    flex-direction: column;
+    flex-direction: row;
     width: auto;
     font-family: 'Times New Roman', Times, serif;
 }
 
-
+.tudo2{
+    font-style: oblique;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    width: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
 
 .princ h1 {
     font-size: 50px;
@@ -23,14 +31,14 @@
     margin-bottom: 30px;
 }
 .princ1 {
-    margin-right: 100px;
+    justify-content: space-around;
     font-size: 20px;
     color: white;
 
     background-color: black;
     padding: 20px;
 
-    max-width: 400px;
+    max-width: 310px;
     overflow: hidden;
     display: -webkit-box;
     -webkit-line-clamp: 50;
@@ -50,14 +58,16 @@
 }
 
 .princ2 {
+    margin-right: 15px;
+    justify-content: space-around;
     font-size: 20px;
     color: white;
     
-    margin-left: 50px;
+    margin-left: 20px;
     background-color: black;
     padding: 20px;
 
-    max-width: 400px;
+    max-width: 323px;
     overflow: hidden;
     display: -webkit-box;
     -webkit-line-clamp: 50;
@@ -86,15 +96,16 @@
 .foto1 {
     padding: 20px;
     background-color: black;
-    margin-right: 220px;
+    
+    width: auto;
+    height: 320px;
 }
 
 .foto2 {
     padding: 20px;
     background-color: black;
+
+    width: auto;
+    height: 300px;
 }
 
-.fotos img {
-    width: auto;
-    height: 320px;
-}

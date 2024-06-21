@@ -1,0 +1,33 @@
+.trabalhos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.trabalhos p {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-style: oblique;
+    
+    text-align: center;
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.trabalhos a {
+    color: black;
+    
+}
+
+.trabalhos hr {
+    max-width: 250px;
+    margin-left: 470px;
+}
+
+.trabalhos h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}

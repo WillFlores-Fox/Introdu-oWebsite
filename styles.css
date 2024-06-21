@@ -4,12 +4,19 @@
 }
 
 footer {
+    padding-top: 35px;
     color: white;
     background: black;
     margin-top: 35px;
     display: flex;
     justify-content: space-around;
+    flex-direction: row;
     align-items: center;
+}
+
+.tudoF {
+    display: flex;
+    flex-direction: row;
 }
 
 svg {
@@ -167,33 +174,6 @@ p {
 
 .linha5 a:hover {
     color: gray;
-}
-
-.trabalho {
-    background-color: rgb(219, 218, 218);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.trabalho img {
-    width: auto;
-    height:250px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border-radius: 360px;
-}
-
-.trabalhot p {
-    font-size: 30px;
-    font-family:'Times New Roman', Times, serif;
-    text-align: center;
-    margin-top: 25 px;
-    color: white;
-    background-color: black;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    font-style: oblique;
 }
 
 

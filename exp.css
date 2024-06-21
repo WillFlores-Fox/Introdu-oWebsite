@@ -1,19 +1,174 @@
+.trabalho {
+    background-image: url('https://img.freepik.com/fotos-gratis/textura-de-papel-branco_1194-2301.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.trabalho img {
+    width: auto;
+    height:250px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 360px;
+}
+
+.trabalhot p {
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 25 px;
+    color: white;
+    background-color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-style: oblique;
+}
+
 .experiencias {
-    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.experiencia1 p {
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.experiencia1 h1 {
+    text-align: center;
+    background-color: darkmagenta;
+    padding: 10px;
+    margin-bottom: 15px;
 }
 
 .experiencia1 {
+    width: 200px;
+    height: 550px;
+    color: white;
+    
+    margin-left: 50px;
+    background-color: black;
+    padding: 20px;
+    padding-bottom: 280px;
+    
+    max-width: 200px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 100;
+    -webkit-box-orient: vertical;
+}
 
+.experiencia1 img {
+    margin-top: 10px;
+    height: auto;
+    width: 200px;
+
+}
+
+.experiencia2 p {
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.experiencia2 h1 {
+    text-align: center;
+    background-color: darkorange;
+    padding: 10px;
+    margin-bottom: 15px;
 }
 
 .experiencia2 {
+    width: 200px;
+    height: 550px;
+    color: white;
+    
+    margin-left: 50px;
+    background-color: black;
+    padding: 20px;
+    padding-bottom: 0px;
+    
+    max-width: 200px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 100;
+    -webkit-box-orient: vertical;
+}
 
+.experiencia3 p {
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.experiencia3 h1 {
+    text-align: center;
+    background-color: darkgreen;
+    padding: 10px;
+    margin-bottom: 15px;
 }
 
 .experiencia3 {
+    width: 200px;
+    height: 550px;
+    color: white;
+    
+    margin-left: 50px;
+    background-color: black;
+    padding: 20px;
+    padding-bottom: 260px;
+    
+    max-width: 200px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 100;
+    -webkit-box-orient: vertical;
+}
 
+.experiencia4 p {
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.experiencia4 h1 {
+    text-align: center;
+    background-color: darkblue;
+    padding: 10px;
+    margin-bottom: 15px;
 }
 
 .experiencia4 {
+    width: 200px;
+    height: 550px;
+    color: white;
+    
+    margin-left: 50px;
+    background-color: black;
+    padding: 20px;
+    padding-bottom: 235px;
+    
+    max-width: 200px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 100;
+    -webkit-box-orient: vertical;
+}
 
+.experiencia4 img {
+    margin-top: 10px;
+    height: auto;
+    width: 200px;
 }
